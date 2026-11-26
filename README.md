@@ -2,6 +2,8 @@
 
 A multi-page React app for learning Mealy and Moore machines (Theory of Computation).
 
+**Created by Bhawani Singh Chadha**
+
 Pages: Home, Simulator, Theory, About.
 
 ## Run
